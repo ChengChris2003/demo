@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/mqtt")
+//@CrossOrigin(origins = "http://localhost:5175") // 允许来自 Vite 开发服务器的请求
 public class MqttController {
 
     @Autowired

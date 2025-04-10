@@ -1,0 +1,5 @@
+com\example\simulator\DeviceSimulatorApp.class
+com\example\simulator\config\DeviceConfig.class
+com\example\simulator\config\DevicesConfig.class
+com\example\Main.class
+com\example\simulator\device\SimulatedDevice.class
